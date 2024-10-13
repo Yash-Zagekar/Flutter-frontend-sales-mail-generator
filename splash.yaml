@@ -1,0 +1,20 @@
+flutter_native_splash:
+  android: true
+  ios: false
+  web: true
+  color : "#373A40" 
+  image:  assets/profile_image.png
+  android_gravity: center
+
+
+  android_12:
+    android: true
+    ios: false
+    web: true
+    color : "#373A40" 
+    image:  assets/profile_image.png
+    android_gravity: center
+
+
+
+

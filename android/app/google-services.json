@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "499014051726",
+    "project_id": "cold-mail-d3086",
+    "storage_bucket": "cold-mail-d3086.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499014051726:android:7be5a834d85f85a9f726df",
+        "android_client_info": {
+          "package_name": "com.example.cold_mail_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499014051726-eb43bvfdgavj8vl1btahq5fs5nd1aprl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cold_mail_ai",
+            "certificate_hash": "9dc3091bf27914b41f475b84fdea428c51a8eef3"
+          }
+        },
+        {
+          "client_id": "499014051726-7au8qetfa4sfm678hfj027g188c047ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxgJZpCEvxRnkY2IE57jH-G-UFf6Nwa0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499014051726-7au8qetfa4sfm678hfj027g188c047ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
